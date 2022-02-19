@@ -2,3 +2,4 @@ data/
 output/
 cuda*
 .idea
+models/my_dir/
